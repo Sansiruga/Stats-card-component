@@ -105,6 +105,10 @@ body {
         flex-direction: column;
         align-items: center;
     }   
+
+    .card-img .overlay {
+    border-radius: 7px 7px 0 0 ;
+    }
     
     .card-img {
         height: 300px;
